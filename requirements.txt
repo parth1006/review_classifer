@@ -6,3 +6,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+h5py
